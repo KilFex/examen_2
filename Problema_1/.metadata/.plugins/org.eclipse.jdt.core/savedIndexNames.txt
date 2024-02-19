@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\algoritmoBaseDatos\EXAMENES\AED_Parcial - Recurso\AED_Parcial - Recurso\Problema_1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+818533633.index
+1533842387.index
